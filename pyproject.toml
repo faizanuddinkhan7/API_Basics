@@ -8,7 +8,10 @@ authors = [
 ]
 requires-python = ">=3.14"
 dependencies = [
+    "fastapi>=0.142.2",
+    "pydantic>=2.13.5",
     "requests>=2.34.2",
+    "uvicorn>=0.54.0",
 ]
 
 [project.scripts]
@@ -21,4 +24,10 @@ build-backend = "uv_build"
 [tool.uv.workspace]
 members = [
     "api-basics",
+]
+
+[dependency-groups]
+dev = [
+    "mypy>=2.4.0",
+    "ruff>=0.16.10",
 ]
