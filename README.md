@@ -24,7 +24,7 @@ A simple REST API built with **Python and FastAPI** to practice CRUD operations 
 Clone the repository:
 
 ```bash
-git clone <https://github.com/faizanuddinkhan7/API_Basics.git>
+git clone https://github.com/faizanuddinkhan7/API_Basics.git
 cd API-Basics
 ```
 
