@@ -73,7 +73,7 @@ localhost:8000/redoc
 
 ## 🎯 Purpose
 
-This project was built to practice the fundamentals of **REST APIs, FastAPI, HTTP methods, and CRUD operations** as part of my journey toward becoming an AI Engineer.
+This project was built to practice the fundamentals of **REST APIs, FastAPI, HTTP methods, and CRUD operations** as part of my journey toward becoming a Backend Software Engineer.
 
 
 ## 👤 Author
